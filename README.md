@@ -29,7 +29,7 @@ BiSeNet.py, DORN.py, ERFNet.py are the models that I tried previously.
 * Usage for evaluation matrix
   
   1. The evaluation codes are in:
-  https://github.com/mrharicot/monodepth/utils
+  https://github.com/mrharicot/monodepth/tree/master/utils
 
   2. Some revisions are needed if Python 3 is used such as "class map". Check online for them.
 
