@@ -16,6 +16,8 @@ The model is trained on KITTI. The result shows that unsupervised learning metho
 The model is mainly focus on outdoor driving scenes. Below is the current evaluation video based on current training result in the daylight (The upper half of the result is not stable, which will improved in future):
 https://pan.baidu.com/s/1rWlTp6SPTRUQs3Tzng1O4A
 
+BiseNet.py, DORN.py, ERFNet.py are the models that I tried previously.
+
 * Usage for training
 
   1. Revise the data path in ReadData.py and lr_consistency_main.py
