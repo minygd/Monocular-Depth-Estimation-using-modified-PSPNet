@@ -1,5 +1,5 @@
 # Monocular Depth Estimation using modified PSPNet
-The whole project is written by Tensorflow, Python.
+The whole project is written using Tensorflow, Python.
 It is based on the unsupervised methods.
 
 The network is mainly based on the structure of PSPNet.
